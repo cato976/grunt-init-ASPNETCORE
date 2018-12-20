@@ -5,5 +5,5 @@ description
   The awesomest package ever
 authors Andre Cato
 files
- .\{%= name %}\bin\Debug\{%= name %}.dll
- .\{%= name %}\bin\Debug\{%= name %}.pdb
+ .\{%= name %}\bin\Debug\netcoreapp2.1\{%= name %}.dll
+ .\{%= name %}\bin\Debug\netcoreapp2.1\{%= name %}.pdb
