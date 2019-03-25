@@ -1,5 +1,5 @@
 /*
- * grunt-init-csharp-solution
+ * grunt-init-ASPNETCORE-Solution
  * https://gruntjs.com/
  *
  * Copyright (c) 2014 Jason Imison
@@ -8,7 +8,7 @@
 
 'use strict';
 // Basic template description.
-exports.description = 'Create a C# solution with main project + nunit test project'
+exports.description = 'Create a ASPNET Core C# solution with main project + nunit test project'
 
 // Template-specific notes to be displayed before question prompts.
 exports.notes = '';
