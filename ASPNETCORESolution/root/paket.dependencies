@@ -1,7 +1,6 @@
 framework: netcoreapp2.1
 source https://nuget.org/api/v2
 
-nuget Microsoft.AspNetCore.App
 nuget Microsoft.AspNetCore.Razor.Design
 nuget Microsoft.NET.Test.Sdk
 nuget NUnit.Runners
